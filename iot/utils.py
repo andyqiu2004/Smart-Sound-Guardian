@@ -30,10 +30,6 @@ def get_root_path():
 
 
 def get_all_core_packages():
-    """
-    过于恶心的逻辑，以后优化
-    :return:
-    """
     g_dirs = list()
 
     def inner_recursive(path):
