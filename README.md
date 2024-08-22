@@ -93,15 +93,6 @@ python -m iot.core.main
 python setup.py install
 ```
 
-### 系统介绍视频
-
-观看以下视频，了解**Smart Sound Guardian 系统**的工作原理和核心功能。
-
-<video controls>
-  <source src="video/Smart.mp4" type="video/mp4">
-  您的浏览器不支持视频播放，请升级您的浏览器或使用支持 HTML5 的浏览器。
-</video>
-
 ---
 
 &copy; 2024 Smart Sound Guardian | 物联网语音安全领航者
