@@ -2,7 +2,7 @@
 
 > 2024年"中国高校计算机大赛-网络技术挑战赛" 作品
 >
-> 可以访问我们的 [作品主页](https://1normalguy.github.io/SmartSoundGuardian/) 来了解更多信息
+> 可以访问我们的 [作品主页](https://mumuyeye.github.io/SmartSoundGuardian/) 来了解更多信息
 
 ---
 
