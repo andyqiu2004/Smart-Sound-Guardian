@@ -95,4 +95,4 @@ python setup.py install
 
 ---
 
-&copy; 2024 Smart Sound Guardian | 物联网语音安全领航者
+&copy; 2025 Smart Sound Guardian | 物联网语音安全领航者
