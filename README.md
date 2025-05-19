@@ -1,8 +1,8 @@
 # Smart Sound Guardian: 物联网语音安全领航者
 
-> 2024年"中国高校计算机大赛-网络技术挑战赛" 作品
+> 2025年中国机器人及人工智能大赛 人工智能创新赛 作品
 >
-> 可以访问我们的 [作品主页](https://mumuyeye.github.io/SmartSoundGuardian/) 来了解更多信息
+> 可以访问我们的 [作品主页](https://andyqiu2004.github.io/SmartSoundGuardian/) 来了解更多信息
 
 ---
 
